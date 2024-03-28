@@ -1,4 +1,4 @@
-1. git clone https://github.com/karan7868/project.git
+1. git clone https://github.com/karan7868/assignment3
 
 2. Install Conda on the local machine
 
