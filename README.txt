@@ -4,7 +4,6 @@
 
 3. conda env create -f my_conda.yaml
 
-4. i) 
-python unsupervisedlearningDR.py
+4. i) python unsupervisedlearningDR.py
 
 
